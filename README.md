@@ -1,4 +1,4 @@
-![Front-End Web Developer](https://media.licdn.com/dms/image/D4E16AQGygh1VhAmLjg/profile-displaybackgroundimage-shrink_350_1400/0/1686332402033?e=1691625600&v=beta&t=A4Bge2TVCgs3HmoWZDtqqaEbbmplr0B7G5Fq8CgIS3w)
+![Front-End Web Developer](https://i.ibb.co/7RjgLwb/front-end-web-devoloper.png)
 
 
 ### Hi there 👋, my name is Shamim Mahmud
