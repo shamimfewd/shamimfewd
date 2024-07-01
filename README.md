@@ -4,16 +4,13 @@
 ### Hi there 👋, my name is Shamim Mahmud
 #### Front-End Web Developer
 
-👋 Hello there! I'm Shamim Mahmud a dedicated and enthusiastic front-end developer with a strong foundation in React.js. As an entry-level professional, I bring a fresh perspective and an eagerness to learn and grow within the dynamic field of web development.
-
- where I gained a solid understanding of web development fundamentals and honed my skills in JavaScript, HTML, and CSS. During my academic journey, I developed a keen interest in building intuitive and user-friendly interfaces using React.js.
-
-Although I'm an entry-level developer, I have had the opportunity to gain practical experience through internships and personal projects. Through these experiences, I've strengthened my proficiency in React.js by creating responsive web applications and collaborating with cross-functional teams to deliver high-quality products. I am highly adaptable, eager to take on new challenges and thrive in fast-paced environments that encourage innovation.
+👋 Hello there! I'm Shamim Mahmud 
+I'm a junior front-end web developer with a passion for creating great websites. I work with React.js to build interactive and user-friendly web applications. I also handle back-end tasks for CRUD operations using Node.js, Express.js, and MongoDB.
 
 Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning React.js 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about frontend development 
 
 
